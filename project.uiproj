@@ -1,0 +1,6 @@
+{
+  "Name": "UIPathGitHubDemo",
+  "ProjectType": "Tests",
+  "Description": "New Test Automation Framework",
+  "MainFile": "Main.xaml"
+}
